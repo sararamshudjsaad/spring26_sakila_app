@@ -1,3 +1,8 @@
+"""
+config.py - Application configuration module.
+Reads all settings from environment variables with sensible defaults.
+See README.md for deployment-specific hostname configurations.
+"""
 # Author: Sara Haider
 # Date: 2026-04-26
 # Team Member: Ali Hassan
